@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Admin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Admin_jar</output-path>
+    <root id="archive" name="Admin.jar">
+      <element id="module-output" name="Admin" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../CourseWork/usb4java-1.3.0/usb4java-1.3.0/lib/libusb4java-1.3.0-win32-x86-64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../CourseWork/usb4java-1.3.0/usb4java-1.3.0/lib/usb4java-1.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../CourseWork/usb4java-1.3.0/usb4java-1.3.0/lib/commons-lang3-3.8.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
